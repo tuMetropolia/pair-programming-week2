@@ -1,0 +1,21 @@
+h3 {
+  text-align: center;
+}
+
+
+.App-logo {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+
+.idCard {
+  display: flex;
+  margin: 5px;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
